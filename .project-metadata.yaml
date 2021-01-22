@@ -1,0 +1,7 @@
+name: Predicting NYC Taxi Fare 
+description: Demonstrates how to ingest data, train and serve model predictions.
+author: Cloudera Inc.
+specification_version: 1.0
+prototype_version: 1.0
+date: "2021-01-21"
+api_version: 1
